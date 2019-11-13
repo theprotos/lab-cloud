@@ -1,0 +1,5 @@
+.idea
+azure/provider.tf
+.terraform
+*.iml
+*.tfstate*
