@@ -1,5 +1,8 @@
 .idea
-*/provider.tf
+provider.tf
+secrets.json
 .terraform
 *.iml
 *.tfstate*
+.vagrant
+node_modules

@@ -1,20 +1,10 @@
- # Azure
+# Azure
 
-### Set Azure Creds
-
-Powershell:
+## Set credentials first
 
 ```
-$Env:ARM_CLIENT_ID=
-$Env:ARM_CLIENT_SECRET=
-$Env:ARM_ENVIRONMENT=
-$Env:ARM_SUBSCRIPTION_ID=
-```
-
-Bash:
-```
-export ARM_CLIENT_ID=
-export ARM_CLIENT_SECRET=
-export ARM_ENVIRONMENT=
-export ARM_SUBSCRIPTION_ID=
+$env:client_id=""
+$env:client_secret=""
+$env:tenant_id=""
+$env:subscription_id=""
 ```
