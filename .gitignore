@@ -1,5 +1,5 @@
 .idea
-azure/provider.tf
+*/provider.tf
 .terraform
 *.iml
 *.tfstate*

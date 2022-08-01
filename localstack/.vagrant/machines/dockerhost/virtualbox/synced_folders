@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","create":"true","guestpath":"/vagrant","hostpath":"D:/home/gdrive/.public/backup/edu/lab-meta/lab-cloud/localstack","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
